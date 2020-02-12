@@ -24,12 +24,12 @@
         }
     </style>
 
-    <title>Member JKT48</title>
+    <title>Daftar Member JKT48</title>
   </head>
   <body>
 
       <div class="container">
-        <h1 class="text-center">Member JKT48</h1>
+        <h1 class="text-center">Daftar Member JKT48</h1>
         <div class="my-table">
             <table class="table table-sm table-striped table-bordered">
                 <tr class="text-center">
